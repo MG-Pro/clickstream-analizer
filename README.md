@@ -1,0 +1,1 @@
+# clickstream-analizer module
